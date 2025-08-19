@@ -1,4 +1,4 @@
-# assignment-1-python-starter
+
 # Assignment 1 – Python (Section B)
 
 ## Instructions
